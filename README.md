@@ -1,2 +1,4 @@
 # Ihsan--Keeb
-Day 1, 8/3/2026 2:36PM: decided to build a macropad. My decision was motivated by the assumption that a smaller keyboard would mean less work, as well as me not feeling the need to have two keyboards. I’ve made my github repository, and am currently filling out this README to eventually upload to it. I also underwent a little demo run of how to export my PCB on KiCad to my github repository. I'm adding a picture to my repository of my progress thus far (FYI there's supposed to be nothing!!).
+This project is one where I build a mechanical keyboard from scratch, from PCB to case to firmware. Throughout this process, I learn to use tools like KiCAD, OnShape, RMK, and the Rust programming language to develop a project from start to finish all on my own.
+
+I order the keycaps online, though. 
